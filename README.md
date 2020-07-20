@@ -15,6 +15,6 @@ npm install -g @vue/cli @vue/cli-service-global
 vue create hello-world
 
 //integrate bootstrap with vue :
-vue add bootstrap vue
+vue add bootstrap-vue
 
 npm run serve
